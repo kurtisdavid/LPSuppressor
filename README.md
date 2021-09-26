@@ -12,5 +12,13 @@ To obtain executables, look for Releases on the right sidebar of the project. Or
 
 Other platforms will be supported in the future.
 
+## Instructions
+
+1. Open the League Client. 
+2. Run the downloaded executable (e.g. `lcu_exit.exe`).
+3. If you see "This script will only execute a post-game lobby exit command.", then it has started running in the background.
+4. Play your ranked game and profit!
+
+
 
 
