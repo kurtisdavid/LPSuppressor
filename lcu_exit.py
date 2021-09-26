@@ -6,7 +6,7 @@ connector = Connector()
 
 @connector.ready
 async def connect(connection):
-    print('LCU API is ready to be used.')
+    print('This script will only execute a post-game lobby exit command.')
 
 @connector.ws.register('/lol-honor-v2/v1/ballot', event_types=('UPDATE','CREATE','DELETE',))
 async def voted(connection, event):
