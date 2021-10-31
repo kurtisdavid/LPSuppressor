@@ -19,6 +19,7 @@ Other platforms will be supported in the future.
 3. If you see "This script will only execute a post-game lobby exit command.", then it has started running in the background.
 4. Play your ranked game and profit!
 
+## Updates
 
-
-
+**v1.1**: Hides ranked tier changes. 
+**v1.0**: Exits out of post-game lobby
