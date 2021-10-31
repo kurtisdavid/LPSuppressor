@@ -6,9 +6,9 @@ Huge thanks to [lcu-driver](https://github.com/sousa-andre/lcu-driver) for makin
 
 ## Download
 
-To obtain executables, look for Releases on the right sidebar of the project. Or view them here:
+To obtain executables, look for Releases on the right sidebar of the project. Or download most up to date versions here:
 
-- [Windows 10](https://github.com/kurtisdavid/LPSuppressor/releases)
+- [Windows 10](https://github.com/kurtisdavid/LPSuppressor/releases/download/windows/lcu_exit.exe)
 
 Other platforms will be supported in the future.
 
