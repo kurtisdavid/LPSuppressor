@@ -22,4 +22,5 @@ Other platforms will be supported in the future.
 ## Updates
 
 **v1.1**: Hides ranked tier changes. 
+
 **v1.0**: Exits out of post-game lobby
